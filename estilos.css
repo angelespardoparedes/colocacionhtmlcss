@@ -1,0 +1,30 @@
+.container {
+    height: 600px;
+    width: 600px;
+    border: 2px solid black;
+    margin: 40px auto; 
+    display:flex; 
+    flex-direction: column;
+}
+ 
+.square {
+    height: 100px;
+    width: 100px;
+}
+ 
+.red {
+    background-color: red;
+}
+ 
+.pink {
+    background-color: pink;
+}
+ 
+.blue {
+    background-color: blue;
+}
+ 
+.green {
+    background-color: green;
+}
+
